@@ -7,4 +7,6 @@ Which of the following statements applies to you?
 
 == I am just starting with docs validation
 
-You need to validate some docs. So let's try to add a Github plugin for that. In progress alright.
+You need to validate some docs. So let's try to add a Github plugin for that. In progress alright. Just added Vale integration, let's see if it works fine.
+
+Added a line here, I hope it is linted fine.

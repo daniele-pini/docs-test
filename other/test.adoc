@@ -5,3 +5,5 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 This folder should not be validated. If this is being linted, we have a problem!
 
+Added a line to check if it gets picked up. Add a passive so it has been checked alright.
+
