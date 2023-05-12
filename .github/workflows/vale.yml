@@ -8,8 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: errata-ai/vale-action@reviewdog
-
-with:
-  files: docs
-  fail_on_error: false
-  # token: ${{secrets.GITHUB_TOKEN}}   # Default, add if different
+        with:
+          files: docs
+          fail_on_error: false
+          # token: ${{secrets.GITHUB_TOKEN}}   # Default, add if different
