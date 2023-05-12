@@ -1,0 +1,7 @@
+
+ifndef::imagesdir[:imagesdir: ../images]
+:page-aliases: index.adoc
+= Ooops
+
+This folder should not be validated. If this is being linted, we have a problem!
+

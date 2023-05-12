@@ -1,0 +1,10 @@
+
+ifndef::imagesdir[:imagesdir: ../images]
+:page-aliases: index.adoc
+= Getting started
+
+Which of the following statements applies to you?
+
+== I am just starting with docs validation
+
+You need to validate some docs. So let's try to add a Github plugin for that. In progress alright.
