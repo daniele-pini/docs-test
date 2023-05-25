@@ -3,7 +3,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 :page-aliases: index.adoc
 = Getting started
 
-Which of the following statements applies to you?
+Which of the following statements applies to you? Added line.
 
 == I am just starting with docs validation
 
